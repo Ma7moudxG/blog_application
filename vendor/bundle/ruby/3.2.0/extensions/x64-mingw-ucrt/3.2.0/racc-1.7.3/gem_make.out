@@ -1,0 +1,19 @@
+current directory: F:/Rails/blog_demo/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: F:/Rails/blog_demo/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240404-3800-lth20x sitelibdir\=./.gem.20240404-3800-lth20x clean
+
+current directory: F:/Rails/blog_demo/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240404-3800-lth20x sitelibdir\=./.gem.20240404-3800-lth20x
+generating cparse-x64-mingw-ucrt.def
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: F:/Rails/blog_demo/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240404-3800-lth20x sitelibdir\=./.gem.20240404-3800-lth20x install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240404-3800-lth20x/racc
+
+current directory: F:/Rails/blog_demo/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240404-3800-lth20x sitelibdir\=./.gem.20240404-3800-lth20x clean
